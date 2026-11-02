@@ -1,0 +1,6 @@
+{
+  "name": "Recomeça",
+  "description": "Plataforma premium de apoio e recuperação do controle sobre apostas, finanças e novos hábitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
